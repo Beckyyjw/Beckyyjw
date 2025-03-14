@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello, I'm Becky  
 
 🔒 Étudiante en réseau et cybersécurité  
