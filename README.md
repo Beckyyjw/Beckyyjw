@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Becky%20Joyce%20Elibe&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Ingénieure%20Réseaux%20%26%20Cybersécurité%20·%20EFREI%20Paris%20—%20Grande%20École&descAlignY=62&descSize=17&descColor=aaaaaa" width="100%"/>
+![header](https://raw.githubusercontent.com/Beckyyjw/Beckyyjw/main/banner.svg)
 
 <div align="center">
 
@@ -87,14 +87,14 @@ Je construis des projets techniques concrets — mini-SOC, SIEM Azure avec IA, a
 
 | # | Projet | Description | Stack |
 |---|--------|-------------|-------|
-| 🔵 | [**Mini-SOC · SIEM Azure + IA**](https://github.com/Beckyyjw/projet-siem-azure) | Playbook automatisé Azure Sentinel avec IA pour priorisation des alertes | `Azure Sentinel` `Python` |
-| 🟣 | [**Infrastructure Cybersécurité Proxmox**](https://github.com/Beckyyjw/projet-ossi) | pfSense, WireGuard, Suricata, segmentation réseau, défense en profondeur | `Proxmox` `pfSense` `Suricata` |
-| 🔵 | [**Environnement Hybride Windows/Azure**](https://github.com/Beckyyjw/projet-windows-azure) | Active Directory hybride, RBAC/MFA, rapport de conformité Security Center | `Windows Server` `Azure AD` |
-| 🟣 | [**Mini-KMS Python**](https://github.com/Beckyyjw/projet-kms) | Gestionnaire de clés AES-256-GCM — comparatif AWS / Azure / GCP / Vault | `Python` `Flask` |
-| 🔵 | [**BDD IRVE — Pipeline ETL**](https://github.com/Beckyyjw/projet-bdd-irve) | 224 000 lignes open data · SQL avancé · dashboard Plotly Dash | `MySQL 8` `Python` |
-| 🟣 | [**Linux GNS3 & Ansible**](https://github.com/Beckyyjw/projet-linux-gns3) | DHCP, DNS Bind9, NFS, Rsyslog centralisé + automatisation Ansible | `Linux` `GNS3` `Ansible` |
+| 🔵 | [**Mini-SOC · SIEM Azure + IA**](https://becky-cybersec.netlify.app/projet-siem-azure.html) | Playbook automatisé Azure Sentinel avec IA pour priorisation des alertes | `Azure Sentinel` `Python` |
+| 🟣 | [**Infrastructure Cybersécurité Proxmox**](https://becky-cybersec.netlify.app/projet-ossi.html) | pfSense, WireGuard, Suricata, segmentation réseau, défense en profondeur | `Proxmox` `pfSense` `Suricata` |
+| 🔵 | [**Environnement Hybride Windows/Azure**](https://becky-cybersec.netlify.app/projet-windows-azure.html) | Active Directory hybride, RBAC/MFA, rapport de conformité Security Center | `Windows Server` `Azure AD` |
+| 🟣 | [**Mini-KMS Python**](https://becky-cybersec.netlify.app/projet-kms.html) | Gestionnaire de clés AES-256-GCM — comparatif AWS / Azure / GCP / Vault | `Python` `Flask` |
+| 🔵 | [**BDD IRVE — Pipeline ETL**](https://becky-cybersec.netlify.app/projet-bdd-irve.html) | 224 000 lignes open data · SQL avancé · dashboard Plotly Dash | `MySQL 8` `Python` |
+| 🟣 | [**Linux GNS3 & Ansible**](https://becky-cybersec.netlify.app/projet-linux-gns3.html) | DHCP, DNS Bind9, NFS, Rsyslog centralisé + automatisation Ansible | `Linux` `GNS3` `Ansible` |
 | 🟢 | [**CTF Writeups**](https://github.com/Beckyyjw/Writeups) | TryHackMe / Root-Me : réseau, cryptographie, forensics | `CTF` `TryHackMe` |
-| 🔵 | [**Analyse CVE-2024-3094**](https://github.com/Beckyyjw/projet-cve-2024-3094) | Backdoor XZ Utils : timeline, analyse technique, recommandations | `Linux` `Threat Intel` |
+| 🔵 | [**Analyse CVE-2024-3094**](https://becky-cybersec.netlify.app/projet-cve-2024-3094.html) | Backdoor XZ Utils : timeline, analyse technique, recommandations | `Linux` `Threat Intel` |
 
 ---
 
@@ -114,5 +114,3 @@ Je construis des projets techniques concrets — mini-SOC, SIEM Azure avec IA, a
 
 - 🎤 **Sensibilisation cybersécurité** — Animation bénévole de sessions pour les jeunes (hygiène numérique, protection des données, dangers en ligne)
 - 🌐 **CEFCYS** — Membre active de la Conférence Européenne des Femmes dans la Cybersécurité
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
