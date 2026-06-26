@@ -1,5 +1,3 @@
-![header](https://raw.githubusercontent.com/Beckyyjw/Beckyyjw/main/banner.svg)
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=SOC+%7C+Blue+Team+%7C+Threat+Detection;Azure+Sentinel+%7C+SIEM+%7C+Incident+Response;Réseaux+%7C+Cisco+%7C+GNS3+%7C+Ansible;CTF+%7C+TryHackMe+%7C+Root-Me+%7C+Veille+CVE)](https://github.com/Beckyyjw)
