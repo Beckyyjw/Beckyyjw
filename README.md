@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Disponible](https://img.shields.io/badge/🟢_DISPONIBLE-Alternance_2_ans_·_Sept._2026_/_Immédiatement-00ff9d?style=for-the-badge&labelColor=0d1117)](mailto:beckyy.jw@gmail.com)
+[![Disponible](https://img.shields.io/badge/🟢_DISPONIBLE-Stage 6 mois_·_Oct._2026_/_Jan-00ff9d?style=for-the-badge&labelColor=0d1117)](mailto:beckyy.jw@gmail.com)
 
 <br/>
 
